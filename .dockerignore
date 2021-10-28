@@ -1,0 +1,10 @@
+.gitignore
+.dockerignore
+env
+dockerfile
+pipeline.sh
+*.pdf
+secret_key.txt
+setup.cfg
+setup.py
+dist
